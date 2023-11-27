@@ -151,11 +151,11 @@ footer p{
         left: 60%;
     }
 }
-@media screen and (max-width:700px){
-     header nav {
+@media screen and (max-width:700px) {
+    header nav {
         display: none;
     }
-     header nav.visible{
+    header nav.visible{
         display: block;
     }
     #menu.salir #menu-abrir{
