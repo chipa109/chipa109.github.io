@@ -151,7 +151,7 @@ footer p{
         left: 60%;
     }
 }
-@media screen and (max-width:960px){
+@media screen and (max-width:700px){
      header nav {
         display: none;
     }
